@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49"/>
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies"/>
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSWString" value="Amadon"/>
+          <attribute id="Description" type="LSWString" value="This mod enhances the gaming experience by incorporating multiple languages into the game. Players now have the option to experience in-game dialogues, texts, and audio content in various languages. This allows for deeper immersion into the game world and offers players the freedom to choose the language that best suits their preference and comprehension."/>
+          <attribute id="Folder" type="LSWString" value="Deneir"/>
+          <attribute id="Name" type="FixedString" value="Deneir"/>
+          <attribute id="UUID" type="FixedString" value="07e49d63-9dd9-4758-bc1a-ae7336109609"/>
+          <attribute id="Version" type="int32" value="1"/>
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version" type="int32" value="1"/>
+            </node>
+            <node id="Scripts"/>
+            <node id="TargetModes"/>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

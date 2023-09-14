@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h014a0a0eg7b77g46e2gb975g5a1451a99352" version="2">Ich wurde schon als Heldin bezeichnet. Ich weiß nicht, ob zurecht.</content>
+	<content contentuid="h01fc0cffg4a9cg4152gbcc4g5ddef3407a0a" version="2">Ich bin eigentlich keine Drow. Das ist eine Verkleidung.</content>
+	<content contentuid="h027fc2edg3ec4g4df3gbc95gac19ef9d9146" version="1">Wird Bhaal erlauben, dass ich meinen Liebsten verschone, wenn ich die Welt in den Abgrund stürze?</content>
+	<content contentuid="h032c15fcgdd26g4e4dga823g79d970c1799c" version="2">Eine Magiekundige. Vielleicht kann ich Euch helfen, die Dunkelheit zu durchqueren. Was wisst Ihr über sie?</content>
+	<content contentuid="h0569495fg0b9dg4a38gb129gff93a1cfd073" version="1">Das bequeme Leben in der Stadt hat die Moral verdorben. Eine unerschrockene Abenteurerin wie Ihr würde gewiss nie so tief sinken wie dieses Pack und um Almosen betteln.</content>
+	<content contentuid="h05aab913gf063g4dfcg87b9g03c3344bc034" version="2">Eine Waldläuferin, die ganz klar einen Jagdtrupp erkennt. Wen oder was jagt Ihr denn?</content>
+	<content contentuid="h067af5f5g0b5cg403cg993ag5e6c6013e3fc" version="1">Die große Heldin von Baldurs Tor, Bezwingerin des Nesserhirns. Eure Taten sind zeitlos.</content>
+	<content contentuid="h06e50abfg7e08g406dgac44g44162342eda1" version="1">Das Vakuum wurde bereits gefüllt. Ich bin Bhaals neue Auserwählte.</content>
+	<content contentuid="h073f5fdcg6807g4c91gbce7gb3e0377316a1" version="2">Oh, nun schau nicht so schockiert. Das machst du doch nicht zum ersten Mal. Kiel mag aufgewachsen sein, um die beste Sängerin des Zeitalters zu werden, aber du - du kannst die abgefeimteste Mörderin in der Geschichte der Reiche sein! Es ist ganz einfach - das schaffst du im Schlaf!</content>
+	<content contentuid="h0834f865g5bc3g4b8bg8a91gd9ea154c3604" version="2">Wie viele sterben, wenn wir den Turm stürmen? So begrüßt man mich wenigstens als Heldin.</content>
+	<content contentuid="h083bc38fgb010g48a0g93f5g189ce40b9876" version="2">Verräterin! Das lasse ich mir nicht bieten! Ich bringe diesen Turm zum Einsturz!</content>
+	<content contentuid="h09008023g4fd3g4c20g923ag69d4fb86c41a" version="2">Ihr wollt mich nicht zur Feindin machen.</content>
+	<content contentuid="h0a6be391g09afg47c2g9ff6g71e33eafed60" version="2">Stehen bleiben, Fremde.</content>
+	<content contentuid="h0bbe4383g2526g42bdg9101g5ffcfd5cfabd" version="1">Orin hat uns einige sehr &lt;i&gt;spezifische&lt;/i&gt; Grausamkeiten gelehrt. Wenn Ihr das Vertrauen der Auserwählten missbraucht, füge ich sie Euch ohne zu zögern zu. </content>
+	<content contentuid="h0f72af25g24edg4accg883fg39517c21491f" version="2">Ich wurde gerade eingestellt. Darf ich vorstellen: Eure neue Bardin!</content>
+	<content contentuid="h12c6849dgec65g4c97gb327g1d181d422963" version="2">Bhaal frohlockt über Euren Aufstieg, Auserwählte. Und auch ich.</content>
+	<content contentuid="h12c925e3gd159g4289gba6cgf3fa84f53667" version="1">Sehe ich vielleicht wie eine Mörderin aus? Dazu bin ich zu gut erzogen.</content>
+	<content contentuid="h1491980ag4ecag4db4ga893gf5e687e4cb5f" version="2">&lt;i&gt;Wenn sie den Hain findet, werden alle dort sterben. Du musst sie vom Weg abbringen.&lt;/i&gt; *Ich musste um jeden Preis die Idiotin spielen - ich durfte die Leute im Hain nicht in Gefahr bringen.*</content>
+	<content contentuid="h149e6442g06d1g4871ga841gc9b2adc99b05" version="2">Tut mir leid, wenn ich Euch enttäusche, aber ich bin keine Baldurierin.</content>
+	<content contentuid="h1508de62g4398g4d27ga9d9gb7ca129662ed" version="2">Nur eine Besucherin, junger Freund. Ich tu dir nichts.</content>
+	<content contentuid="h15283c1eg20c9g411bg9c26g54836bf10e20" version="2">Ich bin der wahren Übeltäterin auf der Spur. Lasst mich gehen, damit ich sie aufstöbern kann.</content>
+	<content contentuid="h163ab0cdg13eeg403egbddcgd06775c66919" version="1">Ihr nehmt an, ich bin eine Verbündete. Unklug, möglicherweise.</content>
+	<content contentuid="h186e77d8g1167g4e1bg92b6g411d277b9e19" version="2">Als loyale Bürgerin muss ich protestieren. Überprüfung nicht gestattet. </content>
+	<content contentuid="h18cbfe61g08bcg41ffg9dd9gd1b0eaa125bf" version="2">Tick-tack, meine Teuerste! Tick-tack.</content>
+	<content contentuid="h19401dd2gc2ceg4768g818dg44b31e0af6f8" version="3">Ich bin Eure Vorgesetzte. Erweist mir gefälligst Respekt.</content>
+	<content contentuid="h19525030g09b0g4edeg9949g02bdb56c15e2" version="1">Das geht gegen den Instinkt meines Volkes. Verräterin hin oder her, ich bin immer noch Gith.</content>
+	<content contentuid="h1b55e411g6d2dg425agbd4fg16c7bce63fc4" version="1">Unsere engste Verbündete begleitet mich, nicht wahr? Es wird schnell und erfolgreich sein.</content>
+	<content contentuid="h1cacc43cg6eacg4e11g958fg0464680d45be" version="3">Ich bin's - Eure alte Freundin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]! Ihr würdet doch nicht einer alten Freundin die Tür vor der Nase zuknallen?</content>
+	<content contentuid="h1d06048bg0728g4146ga117g715ae62be184" version="2">Ich bin ja nur Zivilistin. Vergesst es einfach wieder. </content>
+	<content contentuid="h1d315856g08f9g4a2fg93b4gda21fc6c10e2" version="2">Ich bin von einem brutalen Verlangen getrieben. Ich war nicht Herrin meiner Taten.</content>
+	<content contentuid="h1d8ef350g4d04g46f8gaa2bgb8d7096d5a47" version="2">Haltet Euch zurück. Ich bin eine Anhängerin der Absoluten, genau wie Ihr.</content>
+	<content contentuid="h1d99aedcgaf88g4c05g871bg9c55f1ca4a66" version="2">Bhaal wartet, Metzelschwester. Enttäuscht ihn nicht.</content>
+	<content contentuid="h1dd699cfge07dg4a8egaa8bgab18b7ff6077" version="2">Das ist keine Fremde, sondern eine Freundin.</content>
+	<content contentuid="h1ece49e9ge3d3g4c9fgaa22g2ef049e34bf2" version="1">Wir ... bluten ... &lt;i&gt;blutenwürgenbrennenverstümmeln&lt;/i&gt; für die Auserwählte ... für Bhaal. </content>
+	<content contentuid="h1edabc3ag9b61g41e9gbe0fgacc78b780ff1" version="2">Ihr braucht Zeugen. Ich bin eine Zeugin. Ich bin nur hier, um ihr die letzte Ehre zu erweisen.</content>
+	<content contentuid="h1eeb4fecg22b6g4cbfg9200g874b8d9ed3f0" version="1">Nun, ich arbeite als Zauberin für Lucretia. Ich brauche diese Hand für einen Zauber.</content>
+	<content contentuid="h1f712f37gf263g4eb8g893fgb9213ac996d7" version="3">Ich befürchte, ich werde nie eine Heldin sein. Mein Verlangen verleitet mich dazu, furchtbare Dinge zu tun.</content>
+	<content contentuid="h1fa3c403g5af0g4fa4ga18ag06ca93ddb709" version="1">Ich bin mehr als ein Freund. Ich bin Eure treueste Dienerin. </content>
+	<content contentuid="h2045d123gfb76g4c95ga233g9babfcd93ecf" version="1">Ich bin eine Druidin. Was wisst Ihr über dieses Land und die verschlingenden Schatten?</content>
+	<content contentuid="h2203b4bfg3cc1g4824g8a01ga855602eba3f" version="1">In meinen Adern fließt arkanes Blut - ich bin eine Zauberin.</content>
+	<content contentuid="h23d68de3g98f9g4fe3ga787g4630d841015e" version="2">Ich bin Druidin. Lasst mich passieren, damit ich meinen Respekt zollen kann. Bitte.</content>
+	<content contentuid="h23db44d9g6a7fg4b05gac66g33f533ae392c" version="4">*Dein Bestechungsversuch zeigt nur die Wahrheit: Du bist die Verbrecherin, und Verbrecher gehören in die Zelle.*</content>
+	<content contentuid="h245724c3g92eag4abfg8833gcd5e234f77d0" version="2">Eure Vision ist falsch. Ich werde nie ein &lt;i&gt;Ghaik&lt;/i&gt; sein. *"Eure Vision ist falsch. Ich werde nie eine &lt;i&gt;Ghaik&lt;/i&gt; sein", sagte ich.*</content>
+	<content contentuid="h24d0a061g2360g4cd7gb345g6cd956207d6f" version="2">Ich bin eine Githyanki und fremd in diesem Land.</content>
+	<content contentuid="h253d723eg6160g4135g86f9g2ad1603c3bde" version="2">In Trümmern? Was habt Ihr denn vor? *"'Noch eine'? Was meint Ihr damit?", fragte ich.*</content>
+	<content contentuid="h256058c7geadeg4a78gad85gbb091cf1e04f" version="1">Eine Studentin, ja. Bitte erzählt mehr.</content>
+	<content contentuid="h258f6af2gdc92g44e0g894ag8088f9f9ba95" version="1">Heil, wahre Auserwählte. Möget Ihr Tod bringen, wohin Ihr auch geht.</content>
+	<content contentuid="h27676197g5530g42bfgab1dg4affbcb3786f" version="1">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]. Ich bin eine Druidin, Dienerin der Natur.</content>
+	<content contentuid="h27ca88cfg40cdg48a9g88f3g010815e3a98a" version="2">Sieh an, sieh an. Wenn das mal nicht die große Heldin aus der Gazette ist. Guckt Euch nur &lt;i&gt;an&lt;/i&gt;. </content>
+	<content contentuid="h2a205b1eg5c38g425eg84ccgd93f8c114bda" version="1">&lt;i&gt;Ich habe jahrelang dem Ältestengehirn gedient, was Ihr die Absolute nennt. Ich war eine ganz gewöhnliche Sklavin. Doch ich hatte Glück. Ich befreite mich und begann in meiner alten Stadt ein neues Leben.&lt;/i&gt;</content>
+	<content contentuid="h2b8764dbg02feg4a0fgb122gdd40825ff03f" version="2">&lt;i&gt;Die grimmige Gith mimen und ihm jegliche Erklärung verweigern.&lt;/i&gt;</content>
+	<content contentuid="h2c58ebf7g5d71g48bega540gc216a06a10fd" version="2">Ihr seid zurück, makel-gesegnete Geschwistermörderin, nachdem Ihr die heiligste aller Sünden verübt habt.</content>
+	<content contentuid="h2d8c050cgd70cg4d07g9932g5fc96ecd8754" version="1">Ich muss vorbei. Ich bin Baldurierin. Mein Vater ist schon drin und erwartet mich!</content>
+	<content contentuid="h2eb5f1d0g0fbag426dgb510g72356698f7df" version="1">Ich habe einen Hain voller Tieflinge massakriert, die mich für ihre Beschützerin hielten.</content>
+	<content contentuid="h2f98401bg5ae0g4fd0g8d49g63dd48d10f01" version="2">Ihr mordet gut, Aspirantin. Ihr werdet für würdig befunden. </content>
+	<content contentuid="h303a0557g3632g4f25g8367g1315ab2ca577" version="1">Ich bin eine Githyanki, Bestie.</content>
+	<content contentuid="h310b3082g2bd3g412bg85d6gd409783848a7" version="1">&lt;i&gt;Vorsichtig zubeißen, ohne ihn zu wecken.&lt;/i&gt; &lt;i&gt;Vorsichtig zubeißen, ohne sie zu wecken.&lt;/i&gt;</content>
+	<content contentuid="h31f0a801ga059g48bdg80d0ga9a52ead5c0e" version="1">Lasst mich bitte durch. Ich muss zu meinem alten Zuhause. Ich bin Baldurierin!</content>
+	<content contentuid="h3220c586g5eadg43c5ga336g5a53c0917cd3" version="3">Ihr sprecht von der Vergangenheit. Ich von der Zukunft. Nun, Aspirantin? Sprechen die Schatten des Gestern auch für Euch?</content>
+	<content contentuid="h32c5a108g8534g4268g9e6eg8e65ac82f5e2" version="4">Ich bin die Einzige, der Halsin finden kann.</content>
+	<content contentuid="h348c2010ga913g4ef9g8d6fg83b6bd3b8cc4" version="1">*Du kannst hocherhobenen Hauptes durch die Welt gehen, denn du warst in Tat und Absicht loyal. Du bist keine Ketzerin.</content>
+	<content contentuid="h35b0a4a2g4b89g40fcg8d7bg2b37371b0688" version="3">Ich bin weder Eure Freundin noch Euer Essen. &lt;b&gt;Zurück.&lt;/b&gt;</content>
+	<content contentuid="h368c2d6cgfb19g4b9dg90dfgb0e2c1f4b9e3" version="3">Genug. Ich bin es, die Ihr gewollt habt.</content>
+	<content contentuid="h39da4276g0a00g425dg860egcebc8f58da6e" version="1">Ich bin eine neue Rekrutin, die sich in der Festung noch zurechtfinden muss.</content>
+	<content contentuid="h39e235e9g2668g45d3ga8fbg56e5bebc5855" version="1">*Ohne Hoffnungs Verkleidung erkennt die verdammte Seele, dass du eine Hochstaplerin bist, und ist kurz davor, Alarm zu schlagen.*</content>
+	<content contentuid="h3a177ce2g7583g48afgb288g15332b150db0" version="2">Ihr seid eine vortreffliche Mörderin. Oh, ich wünschte, ich hätte ihn kriechen, betteln und bluten gesehen. Vielleicht wird seine Seele eines Tages zu uns kommen.</content>
+	<content contentuid="h3bad4a65g1a61g4250g893eg8e026786c181" version="1">Lasst uns sterben, Auserwählte. Sterben, wie nur Bhaalbrut es kann.</content>
+	<content contentuid="h3c1e124fgd35fg49d2gb9f0ga60e478eeed0" version="3">Ich bin nur eine unschuldige Zeugin! Ehrlich!</content>
+	<content contentuid="h3cb30ee1g648cg4fb5g8906g65d4f5bdcc9b" version="3">"Traf. Hübsche. Heldin. In. Den. Schatten. Landen." Wird Schattenlande in einem Wort oder in zwei Worten geschrieben?</content>
+	<content contentuid="h3cce1870gcc7dg45d5g88ddg0a5034cdd92a" version="2">Oh, nun schau nicht so schockiert. Das machst du doch nicht zum ersten Mal. Alfira mag aufgewachsen sein, um die beste Sängerin des Zeitalters zu werden, aber du - du kannst die abgefeimteste Mörderin in der Geschichte der Reiche sein! Es ist ganz einfach - das schaffst du im Schlaf!</content>
+	<content contentuid="h3ce75a85g781eg463fg9feagab7ebb08d092" version="1">Ich hätte Euch nicht für eine solche Samariterin gehalten.</content>
+	<content contentuid="h3d5ff3eagcd61g42f9gbf0bg400c3e67347c" version="2">&lt;i&gt;Auszugeben? Erkennt Ihr etwa eine Dienerin von Gortasch nicht, wenn sie vor Euch steht?&lt;/i&gt;</content>
+	<content contentuid="h3deb8cc8g41c8g4479ga378gaaa28b1c0ce4" version="1">Wenn hier jemand mit schlechten Absichten herkommt, wird er es bereuen. Gebt das weiter, Freundin.</content>
+	<content contentuid="h3e5fe2c1gb86cg4585ga766g82d4f41a6889" version="1">Ich bin kein Sharitin. Ich bin gekommen, um Euch zu befreien.</content>
+	<content contentuid="h3f0bda48gd920g4ce5g88d7g042a03e866fe" version="2">Die Prophetin des Untergangs, die Zeugin des Verderbens. Ihr seid nichts.</content>
+	<content contentuid="h3f32180fgcb0eg4eb6g8833g234d23fd8fc1" version="1">Orin hat uns einige sehr &lt;i&gt;spezifische&lt;/i&gt; Grausamkeiten gelehrt. Wäret Ihr nicht Bhaals Brut, würde ich sie Euch zufügen, Verräterin.</content>
+	<content contentuid="h3f55b1ebg7405g4aa6g9c1eg39d6979568aa" version="1">Sollen sie es versuchen - ich bin eine Hüterin der Natur. Und ich werde &lt;i&gt;nicht &lt;/i&gt;zurückweichen.</content>
+	<content contentuid="h400af454gbf6eg48d7g929ag03435cffd303" version="2">*Du bist die Retter von Baldurs Tor.*</content>
+	<content contentuid="h40d64601g9d37g499bgbd9cg276d9a49c1d0" version="1">Ganz ruhig, ich bin keine Githyanki.</content>
+	<content contentuid="h41087f56g85fcg40a5gb8dag260d7aa841d6" version="3">Und dass die Hand entfernt wurde ... Ich habe eine Theorie, aber ... nun ja, Ihr seid Zivilistin. Dieser Theorie muss &lt;i&gt;ich&lt;/i&gt; nachgehen. </content>
+	<content contentuid="h41b29079gbed9g48ebgaad5g0041a321a94e" version="1">Ich bin die &lt;i&gt;Heldin&lt;/i&gt;, die Eure Waffe gefunden hat. </content>
+	<content contentuid="h41c28cbcg4d73g4f6cga463g39bc85521463" version="1">Herrin Orin hat das Gewicht von Bhaals Gunst falsch eingeschätzt. Sie ist ausgerutscht und es hat sie erdrückt. Seid auf der Hut, Auserwählte. </content>
+	<content contentuid="h41e154deg7c9cg4bd6g9ce3gdabc87e78fff" version="1">Nur eine Anhängerin des Unbezahlbaren Edelsteins - senkt die Waffen.</content>
+	<content contentuid="h433e7f28g4e76g4399g9bc2gf219717ba05c" version="3">Orin hat uns einige sehr &lt;i&gt;spezifische&lt;/i&gt; Grausamkeiten gelehrt. Wenn Ihr es wünscht, Auserwählte, füge ich sie jedem zu, den Ihr mir nennt. </content>
+	<content contentuid="h4387b2a7g882fg4dfag80d3g856067ee91ba" version="1">&lt;i&gt;Ihr bleibt also bei mir und habt einen Gedankenschinder zur Gemahlin?&lt;/i&gt;</content>
+	<content contentuid="h43c3d83bge5ceg4958ga16cg4d654808f4b6" version="1">&lt;i&gt;Leer vor dich hinstieren und eine Sklavin mimen.&lt;/i&gt;</content>
+	<content contentuid="h44519a62g3713g43bdg9bceg9c6c5cdb6ab8" version="2">Verzeiht, &lt;i&gt;Dame Aylin&lt;/i&gt;. Ich wollte nicht respektlos wirken. Ich habe unsere gemeinsame Freundin hier gebeten, mich der berühmten Tochter der Selûne vorzustellen.</content>
+	<content contentuid="h44a654beg3ad5g4260ga98ag290d09213e1a" version="1">Ihr droht mir? Hier hat nur eine die Macht, Ketheric zu vernichten, und Ihr seid es nicht.</content>
+	<content contentuid="h4504394cg3db6g46aegb720g5d8eb25c2f91" version="2">Pst, ich werde dir nichts tun. *"Ganz ruhig", sagte ich. "Ich bin eine Freundin."*</content>
+	<content contentuid="h48c27f71g6e42g4558g843fg79f2d7f3747e" version="3">Ich war es - ich bin die Mörderin.</content>
+	<content contentuid="h491ce88ag1534g4452gbc4egf6cbebd02cdc" version="3">Ich bin eine Wahre Seele und eine Klerikerin. Ich habe Euch mit der Macht der Absoluten gesegnet - sie wird Euch schützen.</content>
+	<content contentuid="h492b4872g4952g4976ga6b0g1c8c0998a7a2" version="4">*Der Druide begreift, dass du die Diebin bist. Das Idol darf nicht von hier fort. Und du auch nicht.*</content>
+	<content contentuid="h4bce4a0dgb252g4b24g8bdfg44e450787c50" version="2">Sorgt dafür, dass Ihr in der Gunst der Auserwählten bleibt. Sonst werdet Ihr mit den anderen sterben.</content>
+	<content contentuid="h4d53d5a3g470fg4deegbbb9gd874856b327e" version="1">Ich bin keine Patientin - Euer Chirurg hat gehört, dass ich die ruhigsten Hände in diesem Teil von Faerûn besitze. </content>
+	<content contentuid="h4dcf87aagb0feg4bfcg9f32g3548bb0c357c" version="2">Ich höre die Schreie schon, Auserwählte. Endlich regiert der Mord</content>
+	<content contentuid="h4e07efcag88c4g4089g8a94g1e0374c0330b" version="2">Ich bin eine Meisterin der List und Tricks.</content>
+	<content contentuid="h503e16a2g0790g4fabgadbagb36e9c5fadb0" version="3">Machen wir es nicht unnötig kompliziert. "Porträt einer Abenteurerin" reicht.</content>
+	<content contentuid="h51051fdfg16efg4806ga585gf79bacf5f8e2" version="3">Ich bin eine Halb-Drow. Ich stehle nur die Hälfte aller Kinder, die ich treffe.</content>
+	<content contentuid="h51cef42eg6207g42a2g9309g589e78dbd92b" version="2">Ich bin eine Halbelfe. Die Leute staunen manchmal.</content>
+	<content contentuid="h53005ea5g2aa0g430cg9836ga13923643c15" version="2">Wir werden Euch aus dieser Stadt einen Berg errichten, Auserwählte - einen grauenhaften Berg aus Leichen. Einen Thron Eures Gemetzels. </content>
+	<content contentuid="h53c20477ga304g49edg8629g071ebf1296b8" version="3">Musste ich ausgerechnet ihr über den Weg laufen ...</content>
+	<content contentuid="h54bf4b3dge19ag4e35gb6c2gb8bb9d455b9e" version="3">Ich werde keine von denen.</content>
+	<content contentuid="h5554d20dg2737g48bagaa48g5fb6113d1299" version="2">Ich bin eine Freundin. Ich komme in Frieden.</content>
+	<content contentuid="h56f589b6g0a4ag4f39gafcdgf77907559dd2" version="3">*Er ist zwar gebändigt, doch du spürst Orpheus' Abscheu - einen pochenden Hass, der sich nicht eindämmen lässt. Der Imperator sagt die Wahrheit. Für ihn bist du nur eine widerwärtige Illithide.*</content>
+	<content contentuid="h57b1e321gfef1g4056gb00egba700b87683f" version="1">Ich bin eine Wächterin des Todes - doch den suche ich hier nicht. Senkt die Waffen.</content>
+	<content contentuid="h59f0d0efga20fg48f8g9fccgfc6890630b80" version="1">Fürst Bhaal hat zu der Auserwählte gesprochen ... Ich habe es selbst gehört ...</content>
+	<content contentuid="h5a68f75eg7027g450agb15bgd93b89fe8559" version="2">Die wahre Auserwählte erhebt sich also. Ich schmecke das Chaos schon auf meiner Zunge.</content>
+	<content contentuid="h5ada4f27g46e2g4b86ga693g75367d4624b5" version="1">Warum nennt Ihr mich Stahlwächterin? Ich gehöre nicht zu Euch.</content>
+	<content contentuid="h5b036fe1g9752g4934gb5ecgcabbc1384eec" version="1">Ihr ... &lt;i&gt;Haustier&lt;/i&gt; der Auserwählten. Eure Gebieterin war kühn, wirklich sehr kühn ...</content>
+	<content contentuid="h5b2fc766g5869g42b3g9f3cgb83f25feca47" version="2">Ihr sprecht von Gale, nehme ich an? Ich bin auch eine Magierin, wisst Ihr?</content>
+	<content contentuid="h5c132d8eg0facg4330gad7fgc68a24bc1099" version="1">Ich bin nur eine verirrte Corellitin - keine Feindin. Ich bitte Euch, schlagt nicht zu. </content>
+	<content contentuid="h5c21bd75gf95eg4e76ga881g3a17eafd5aad" version="4">Dieses Drow-Aussehen ist nur etwas Magie. Denkt Euch nichts dabei. Ich bin gar keine Drow - ich bin nur verkleidet.</content>
+	<content contentuid="h5c2a8514gb24bg4977gac07ge7aceb2b9431" version="2">Ich wurde zur Glaubenswächterin ernannt. Lasst mich frei.</content>
+	<content contentuid="h5c9b73f3geaa5g45b2gb903gefab46a433f8" version="2">Körper über Körper voll unvergossenem Blut. Führt uns ins Gemetzel, Auserwählte. Wir verrichten in Eures Vaters Namen unheiligen Dienst. </content>
+	<content contentuid="h5d87704ag0f64g436ag9320gb2d2272d08d3" version="2">Bhaals Auserwählte ... ich bin nicht würdig.</content>
+	<content contentuid="h5dd2c2a0g6fe2g4742g8da6g0c075e409981" version="2">Warum nennt Ihr mich Sharitin?</content>
+	<content contentuid="h5df63514g245ag48bdgafdbg946b386bdafb" version="2">&lt;i&gt;Behaupten, eine wichtige Persönlichkeit zu sein. Eine wertvolle Geisel oder eine Verbündete.&lt;/i&gt;</content>
+	<content contentuid="h5ec8f360g78a1g4e67g8f33g9ec572e678a0" version="4">Geht nun, Kind. Metzelt Eure Schwester Orin nieder. Nehmt Euren rechtmäßigen Platz als Erbin Eures Vaters ein. </content>
+	<content contentuid="h60448fdagf1a3g423bg9dd6g75f2e638ce47" version="1">Nehmt dieses Amulett, Kind, und bringt es zurück in die Kammer Eures Vaters. Ihr seid die wahre Erbin seines Willens, und er würde lächeln, wenn er es Euch tragen sieht. </content>
+	<content contentuid="h62743324g2c96g4a8cgaca8ga8820b77750d" version="1">An erster Stelle bin ich Druidin, dann Drow. Lasst mich passieren, damit ich meinen Respekt zollen kann.</content>
+	<content contentuid="h62779a99ga0e0g4e12g9f67g767da7e48e90" version="2">Ich wurde auch schon Teufelin genannt. Sicher, dass Ihr Euch nicht täuscht?</content>
+	<content contentuid="h63e4b678gb45bg42c3gafa7g01141203b233" version="1">In Trümmern? Was habt Ihr denn vor? *"'Noch eine'? Was meint Ihr damit?", fragte ich.*</content>
+	<content contentuid="h6605e1f7gb792g4d51gad9cgf1787d9b05ee" version="1">Ich bin eine Zwergin. Hast du noch nie eine gesehen?</content>
+	<content contentuid="h668a2a83g3482g44bbg8c7aga44a3aa3f0be" version="1">Ich bin keine Heldin. Bhaals Hand hat mich gezwungen, meinen besten Freund zu töten.</content>
+	<content contentuid="h66e1cbfbg9d81g47c8gae7cg0a2e6fdfa47e" version="1">Ich bin natürlich eine Zwergin.</content>
+	<content contentuid="h66e8202fgb7b3g4dfcgbbd6g29e3203a8b68" version="4">Seid gegrüßt, &lt;i&gt;Auserwählte&lt;/i&gt;. Ich rieche Orins Blut an Euch - ein berauschendes Parfüm.</content>
+	<content contentuid="h6807686cgf49cg4d7eg87f1g8468ab29374d" version="1">An erster Stelle bin ich Druidin, dann Tiefling. Lasst mich passieren, damit ich meinen Respekt zollen kann.</content>
+	<content contentuid="h68d2957dg28e0g45a3ga40fg3d8b2b4b1f18" version="1">Ich - eine Mörderin? Das würde ja bedeuten, dass ich sehr gefährlich bin, oder?</content>
+	<content contentuid="h68f6e396g8db6g4d7fgb1beg017d7ec4efb0" version="2">Ich bin der Dämonenfluch, Held von Avernus. Ihr jagt mir keine Angst ein. *"Ich bin der Dämonenfluch, Heldin von Avernus. Ihr macht mir keine Angst", sagte ich.*</content>
+	<content contentuid="h69aa04b4gc020g4e14g8681g8540711b550f" version="1">Ich bin keine Patientin - ich wurde als spiritueller Beistand angeheuert.</content>
+	<content contentuid="h69ab6753g3c03g4d80gbc4dg18ba0c05011f" version="5">Ich gehöre nicht zu den Tieflingen, ich bin eine Druidin. Ihr könnt mir vertrauen.</content>
+	<content contentuid="h6ab568beg18c0g4dacga44ege73acfae0651" version="1">Oh, hallo, Hübsche!</content>
+	<content contentuid="h6b62937egb4bag4ef2g9168ge069c55eb5de" version="1">Eine andere wird zu würdigen wissen, was Ihr ausgeschlagen habt.</content>
+	<content contentuid="h6ba16a60g7887g45dcg9ba4g209a2f713101" version="1">Ich bin keine Patientin - ich wurde als Heilerin angeheuert.</content>
+	<content contentuid="h6c61e6a9gad07g462fgaf43g36b9e61d20a6" version="3">Eine neue Partnerin? Und wer wäre das?</content>
+	<content contentuid="h6cc081afg02ccg4175g9d09g0d2606835ff2" version="1">Ich dachte, Ihr wäret seine Auserwählte, aber Ihr seid nichts.</content>
+	<content contentuid="h6ed23daeg4a9cg4ca4gbcb6gd0bc4e5aa6f0" version="2">Einer von uns kommt hier reicher raus - ich kämpfe nicht umsonst.&lt;br&gt; Eine von uns kommt hier reicher raus - ich kämpfe nicht umsonst.&lt;br&gt;</content>
+	<content contentuid="h6fcfe388g42f4g4f37ga0d6g91ed3e7fc870" version="1">Kein Respekt hier - mit meiner Magie könnte ich die Stadt in Schutt und Asche legen und werde behandelt wie eine schnöde Bürgerliche. </content>
+	<content contentuid="h705a4538gd55fg4019g84dege20331aacb1b" version="2">*Du spürst wieder die Anwesenheit deiner Göttin. Als ihre Auserwählte hast du bereits das ultimative Opfer erbracht.*</content>
+	<content contentuid="h7144a0b2ga661g42c4g9cabg8b5c081b0602" version="3">Nein, nicht wirklich. Ich bin selbst keine Bardin.</content>
+	<content contentuid="h71c3638cgfa1dg443agb8cegb7ab77512bb0" version="3">Ah. Meine Verbündete. Wir sind wieder vereint.</content>
+	<content contentuid="h73841c35g91fdg4701g9940g98175cb8e315" version="1">Nein, ich bin eine von &lt;i&gt;Euch.&lt;/i&gt;</content>
+	<content contentuid="h749bb667g0b57g4c72g8606gde252da72bf4" version="1">Das Blut an seinen unheiligen Händen ... Auch das hätte Eures sein können. Ihr hättet die Auserwählte sein können.</content>
+	<content contentuid="h75078e43gbfb7g46a9gaa31gc78282634395" version="1">Ich bin Bardin, Willoughby. Macht Euch bereit, abserviert zu werden. </content>
+	<content contentuid="h75e8d2e9gf9ccg4c26g9fa3g23f99c9d9902" version="1">Nein. Ich bin nicht Eure Dienerin, die Ihr herumkommandiert.</content>
+	<content contentuid="h7612563cgf2d9g46bfgaa91gda4b89051260" version="2">Eine Fremde, die sich dem Erhabenen Vampir gestellt und überlebt hat. </content>
+	<content contentuid="h76469919g19abg4e35g8c2bg99f29e3f8ebc" version="1">Seid mal nicht so unhöflich, ich bin eine zahlende Kundin.</content>
+	<content contentuid="h777acc50gbafbg4dbdgbda4ge64b04b6d766" version="3">Ja, eine Verbündete! Eine Verbündete deines Meisters.</content>
+	<content contentuid="h7911449ag1250g44a0ga191gf7b89c0e35c7" version="2">Ich hoffe es auch. Ich glaube, ich kann die Heldin sein, die diese Stadt braucht.</content>
+	<content contentuid="h792227d0g5145g4ec2g9fd4g45a1650e2c42" version="2">Das ist keine Fremde, sondern eine Freundin.</content>
+	<content contentuid="h79365ebag0402g40bcg987bg18c0e195597d" version="1">Ich bin eine Söldnerin. Mein Auftraggeber ist da drin. Platz da. &lt;i&gt;Jetzt.&lt;/i&gt;</content>
+	<content contentuid="h7977c9a2g262eg45deg9c8cg06559b7e892a" version="2">Das ist keine Fremde, sondern eine Freundin.</content>
+	<content contentuid="h7a23d8f1g4c57g416fg9eacga5d048a1c33b" version="1">Ich bin kein Patient, ich bin die neue Assistentin des Doktors.</content>
+	<content contentuid="h7a26877dg8ab0g4781gb3c6g0a785365f9d1" version="1">Ich bin keine Sharitin. Ich bin etwas viel Schlimmeres.</content>
+	<content contentuid="h7aa00a01geddbg40edgada2g589ab7e482f0" version="1">Eine Schlägerin? Ist es das, was Ihr seht?</content>
+	<content contentuid="h7b6b93bag2c86g4685g86d8g0a195be99d5b" version="2">Dies ist die Fremde, die ich während der Jagd auf die Brut traf.</content>
+	<content contentuid="h7b936410g3d9eg45d1ga2d8g2895a95c39a0" version="1">Habe ich Euch schon mal gesagt, dass Ihr meine Lieblingskundin seid? Ganz ehrlich. </content>
+	<content contentuid="h7bf71760gc8deg4f54g8471g743522aa2b70" version="2">I-so-bel. Klerikerin der Selûne. Verteidigerin des Letzten Lichts. Gestorben im Sommer 1492 TZ. Ab auf den Grabstein damit, klingt es nicht richtig? Der Diener hat dir gesagt, du sollst sie töten. Der Diener weiß, was am besten für dich ist. Er weiß, wie du dein altes Leben wiederkriegst. Ist das nicht alles, was du willst? Herausfinden, wer du warst, und wieder die ruhmreiche alte Metzgerin sein?</content>
+	<content contentuid="h7cb6d34eg6edag4c54g8167g463e32e5eaaf" version="1">Sein Blut lässt sich nicht zurückweisen, Metzelschwester. Und ich mich auch nicht.</content>
+	<content contentuid="h7d12f7abgbab6g476fga199g21653eb7e81f" version="1">Ich habe einen Hain voller Tieflinge massakriert, die mich für ihre Beschützerin hielten.</content>
+	<content contentuid="h7e52715cg7215g432bgafd2g41914effc827" version="1">Ich bin eine Abgesandte des Ersten Lesers von Kerzenburg. Ich bin hier, um Wissen zu erwerben.</content>
+	<content contentuid="h7fc3cebfg775ag4023g8657ga52a783d52dd" version="1">Ich bin nur eine fromme Anhängerin. Ich wünsche nicht gegen Euch zu kämpfen.</content>
+	<content contentuid="h8182cbe0ge5aeg420fg960agc023e1dc44eb" version="2">Ich bin die erbittertste Kriegerin, die Ihr je treffen werdet. Meine Feinde erzittern beim Klang meines Kampfschreis.</content>
+	<content contentuid="h81f7e335g7cdbg4f2fg9a2bg11b3faca97d7" version="1">Wir hätten Euch einen Berg errichtt, Auserwählte - einen grauenhaften Berg aus Leichen. Einen nassen, weinenden Thron Eures Gemetzels. Doch leider ...</content>
+	<content contentuid="h833d910ag959eg4e4dg8754g1b78f9c54c35" version="1">Hallo. Ich bin eine Freundin von Jaheira.</content>
+	<content contentuid="h83d78b87g87eeg4148ga7e2ga975ed4ea9ee" version="3">Ich will es vermeiden, zur Gedankenschinderin zu werden - ich dachte, Ihr hättet eingewilligt, mich zu beschützen. </content>
+	<content contentuid="h86425bd8g0808g4b80g9a96g482e62a1dfeb" version="1">Eine Schlägerin? Ist es das, was Ihr seht?</content>
+	<content contentuid="h87ee7239ge20fg4db2gbc29g622ee0fb35b6" version="1">Unverschämtheit! Ich bin Erbin einer der ältesten Familien der Stadt!</content>
+	<content contentuid="h881b9174gda9cg4e73g8b32gc82f374c6b03" version="1">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]. Eine bescheidene Klerikerin.</content>
+	<content contentuid="h8840395ag9ad7g4593g8a27g57eb242e9696" version="4">Hier ein Tipp von einer echten Kämpferin - weniger reden, mehr kämpfen. </content>
+	<content contentuid="h898995deg6037g42f6g95f7ga956c24c87da" version="1">Indem ich getan habe, was ich am besten kann - eine Heldin sein.</content>
+	<content contentuid="h8999ba28gb1e2g42fdga2e5gf3c4dacaab3a" version="3">Ich war in Avernus, aber ich bin keine Teufelsdienerin.</content>
+	<content contentuid="h8a192e1fgcb61g40e3ga2eeg273052640ef8" version="1">Wahre Seele? Mutig von Euch, mich als Kameradin zu sehen.</content>
+	<content contentuid="h8ac71750g5105g4fe8ga828g68571799ceb7" version="1">Ich bin gar kein Drow - ich bin nur verkleidet. Ich bin gar keine Drow - ich bin nur verkleidet.</content>
+	<content contentuid="h8e198b42g3493g4d79gbdc8g989cad64a421" version="4">Ich fühle mich nicht wie eine Beschützerin, sondern wie ein Dienstmädchen.</content>
+	<content contentuid="h8e838bbdg766fg4e9agbd94gf99115f52c6b" version="1">Mutig von Euch, mich als Kameradin zu sehen - Ihr kennt doch meinen Gott. </content>
+	<content contentuid="h8ed4a52cg832cg45beg8f2egdd1bfc3032a4" version="5">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53], Monsterschlächterin, Geschichtenerzählerin, deine Retterin. Die Freude ist ganz meinerseits.</content>
+	<content contentuid="h8fe961fagb53eg44f6ga214g01abe2088e70" version="1">Was sagt man dazu: Anscheinend war ich nicht die Einzige, die eine Mitfahrgelegenheit auf dem Nautiloiden hatte.</content>
+	<content contentuid="h8ff4af38g6b29g4cfeg94eegecd3d01a58b2" version="2">Nun wurdet Ihr geschickt, um mein Blut zu vergießen. Wie überaus dumm von meiner Metzelschwester. Nun ist es nichts mehr mit Bhaals Auserwählung.</content>
+	<content contentuid="h903c5000gaf5fg4748g8014gcaf70ce1e97e" version="1">Ich bin eine Wahre Seele und eine Klerikerin. Ich habe Euch mit der Macht der Absoluten gesegnet - sie wird Euch schützen.</content>
+	<content contentuid="h907f32f9gf545g48adg9125g9c6600079ab3" version="2">Ich habe meine Position an Bhaals Ruder verloren. Warum bin ich noch würdig, zur Auserwählten zu werden?</content>
+	<content contentuid="h9084c117g7abcg4ccfgab11g6f1aa98312f6" version="2">Ich bin die neue städtische Wasserwege-Inspektorin, von Fürst Gortasch bestellt.</content>
+	<content contentuid="h91313279g7373g4e3fgba45g08e0d4c0a93d" version="1">Mein Name ist [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]. Alleskönnerin, Meisterin in &lt;i&gt;vielen Dingen&lt;/i&gt;. Gewiss seid Ihr entzückt. </content>
+	<content contentuid="h915a36bag7e7cg427fgbd96gb6a0c35b0889" version="2">Ich bin eigentlich keine Duergar. Das ist eine Verkleidung.</content>
+	<content contentuid="h921d9db0g33f2g46b8gb884g806cb31b8fd6" version="1">Also bitte. Ich bin eine &lt;i&gt;Githyanki&lt;/i&gt;.</content>
+	<content contentuid="h92fd2002ga257g4033gb2d7g6d54ef84d843" version="1">Ich bin eine Drachenblütige aus einem ehrenhaften Klan.</content>
+	<content contentuid="h93b833c1gbb30g45f3ga8f6g36c4805b1bd7" version="5">Ich bin keine Sklavin. Ich bin immerhin aus freien Stücken hier, nicht wahr?</content>
+	<content contentuid="h95308383gbd46g40b8g9e41g4ac9a3ecba3e" version="3">Ich werde keine von denen.</content>
+	<content contentuid="h958b799eg04afg4d08gb72bg9e4ea7a841ef" version="2">&lt;i&gt;Vorsichtig zubeißen, ohne ihn zu wecken.&lt;/i&gt; &lt;i&gt;Vorsichtig zubeißen, ohne sie zu wecken.&lt;/i&gt;</content>
+	<content contentuid="h95a246a2ge79fg4e47g8586gaa7a8ba730f7" version="1">Ich bin jetzt eine Dunkle Justiziarin. Das macht Euch zu meinem Feind.</content>
+	<content contentuid="h9623c478g780ag41adgbbb5g50287b172bb0" version="2">Habt Zuversicht, meine Liebe, denn Euer Sieg ist gewiss.</content>
+	<content contentuid="h9645b524g9e97g4c90g83dega0463fa3d8ac" version="2">Sie hat die Brut vor Euch versteckt?</content>
+	<content contentuid="h96fbdf3egbdf4g4708g9d42gaf2e3a3e7c25" version="3">Baldurs Tor wird Euch grinsend verschlingen - samt allem, was Ihr habt. Goblins rauben einen wenigstens anständig aus. *"Ich bin selbst Baldurierin. Man kann die Stadt wohl kaum sicher nennen", sagte ich.*</content>
+	<content contentuid="h97353566gfd8ag4051gaba4gecc7b9f97722" version="2">Na, was im Angebot für eine heldenhafte Vettelschlächterin? </content>
+	<content contentuid="h9765822fg32c8g45f8gb52dgc391fb95d111" version="1">Im Hinblick auf eins, ja. Ich bin die Letzte. Orin ist tot.</content>
+	<content contentuid="h979b3c5cgc648g46d0g856ag7a01a5acf385" version="1">Diese Welt wartet darauf, gepflückt zu werden, Auserwählte ... und dann unter Eurem Stiefel zu einem blutigen Brei zertreten zu werden.</content>
+	<content contentuid="h980c678bgc113g4e11gbc76gf8d7949cf773" version="1">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53], ehemalige Aufseherin des Bhaal-Kultes. Im Moment krankgeschrieben.</content>
+	<content contentuid="h984c4a2cg886dg45cfga11bg16a1a2c2b601" version="3">Meinesgleichen hat den Feind angegriffen. Ihr seht nicht wie der Feind aus.&lt;i&gt;&lt;/i&gt; *"Ich bin keine der Gith, die das Schiff angegriffen haben. Aber das wisst Ihr ja schon", sagte ich.*</content>
+	<content contentuid="h9935eacfg9ec0g44ccg8fdcgdc35c1093d23" version="1">Ich bin recht zerbrechlich - ich bin schließlich Magierin.</content>
+	<content contentuid="h997e4046g07f9g426dgb1f5g8a1ec85ba3f8" version="1">Der Tod ist selten grundlos. Ich habe schon getötet - macht mich das zu einer Mörderin?</content>
+	<content contentuid="h99e84f50gedd9g4e9fgb51ege9d771472706" version="1">Eine Dienere des Morgenfürsten steht vor Euch. Ich wünsche nicht zu kämpfen.</content>
+	<content contentuid="h9a386f4agfa3eg40edg8f66g2f00002c0298" version="1">Das Nesserhirn grüßt seinen alten Königsmacher. Es behauptet, von der Auserwählten des Bhaal gekrönt worden zu sein, ehe es ausbrach. Die ganze Zeit war es voller Bewunderung. Jetzt ist es Zeit zu beenden, was begonnen wurde.</content>
+	<content contentuid="h9b4a9784g8f5cg4e02g9f96g51ce3a9cb359" version="1">Ich bin eine Drow. Hast du noch nie eine gesehen?</content>
+	<content contentuid="h9c1bba46g6a04g4417g9cfeg295d0c52fb61" version="3">Merkt Euch meinen Namen, falls Ihr die Autorin der Geschichte nennt. Ich heiße [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53].</content>
+	<content contentuid="h9c5c949dgce6fg4096g9415gc065b7043596" version="2">Perfekt. Aber &lt;i&gt;inoffiziell&lt;/i&gt;, klar? Für meine Vorgesetzten seid Ihr nur eine Zivilistin. Falls Ihr gegen Gesetze verstößt, nun ja ... dann kann ich Euch nicht helfen. </content>
+	<content contentuid="h9d18ea80g8d80g4f60gb0c0gf7b565458d4a" version="1">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53], ehemalige Aufseherin des Bhaal-Kultes. Im Moment krankgeschrieben.</content>
+	<content contentuid="h9e2d9cb4g667dg4a67ga5b9g1e166d6f6b57" version="4">Süße Heimat. Wie weit sind wir schon den Chionthar runter? *"Ich bin selbst Baldurierin", sagte ich und fragte: "Wie weit ist es nach Hause?"*</content>
+	<content contentuid="h9e3157a1g3454g4826g9073g8c08caf99b38" version="2">Ich - eine Mörderin? Das würde ja bedeuten, dass ich sehr gefährlich bin, oder?</content>
+	<content contentuid="h9e55bd51g1845g4390gb93fg66254d74c854" version="4">Und Ihr schimpft Euch Mörderin? Jeder Flumpf kann es besser.</content>
+	<content contentuid="ha07613acgf3e8g43aag9669g1aa262f56a24" version="1">Ich bin eine Elfe. Hast du noch nie eine gesehen?</content>
+	<content contentuid="ha106b86cg2a45g4753g82e8g739f4347353b" version="2">Das Tribunal ist Zeuge, Aspirantin. Enttäuscht uns nicht.</content>
+	<content contentuid="ha1072bcag1941g4922g8e08g8fb185cf5cab" version="2">Ich bin's - Eure alte Freundin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]! Ihr würdet doch nicht einer alten Freundin die Tür vor der Nase zuknallen?</content>
+	<content contentuid="ha1c75cdcg40d7g4dd5g80bdg2f912accafd4" version="1">Ich bin Frau Auserwählte des Bhaal. Ich bin Mord, ich bin Tod. Ich bin der ewige Schlächter.</content>
+	<content contentuid="ha1fc9909g86b2g491ag9112g38697281a0ae" version="2">Hallo, wilde Kriegerin. Habt Ihr Schnibbels schon gefunden?</content>
+	<content contentuid="ha34dd093g147bg4f92g9a33g3fd116d5b285" version="3">Ich bin Eure Vorgesetzte. Erweist mir gefälligst Respekt.</content>
+	<content contentuid="ha3f2770fg7468g4368gaf8eg3b61ac35c21e" version="1">Wie kommst du darauf, dass ich eine Elfe bin?</content>
+	<content contentuid="ha41c453eg5f6fg4c11g80eeg2580f2358a85" version="1">Klerikerin bin ich wohl, doch ich fürchte, ich kann diesen Parasiten nicht entfernen. Ich kann uns nicht heilen.</content>
+	<content contentuid="ha5e63eebgf40eg45c5gaf5fg26736256e2e4" version="1">Indem ich getan habe, was ich am besten kann - eine Heldin sein.</content>
+	<content contentuid="ha72de426g2150g4cebg9cd0gefbd2bfc8e8d" version="1">Diese Sharitin hat einen Verräter in Eurer Mitte entdeckt.</content>
+	<content contentuid="ha75658e3ge582g466ag98e9gd3b20dfe59fe" version="2">Ich bin Euch keine Freundin, was auch immer Ihr seid.</content>
+	<content contentuid="ha989085cg4046g4f62gad41g783f58b7934a" version="2">Endlich, Metzelschwester. Ich werde Euch zeigen, wie Vater mich liebt. Ich werde es in Eure Knochen ritzen.</content>
+	<content contentuid="ha9ae14a5gc3c3g42e6g9c93gf90870c2d352" version="2">Ich bin eine Druidin - ich habe doch sicher ein Recht, es zu wissen.</content>
+	<content contentuid="hab9b7be5g94ccg43bcga4fbgbecb0887ef86" version="1">Ich bin eine Göttin in sterblicher Hülle.</content>
+	<content contentuid="hacf45068g0beag45a9gb7b5g3137c8789600" version="4">Dann duellieren wir uns, süße Metzelschwester.. Einer erhält die Steine - Bhaals wahrer Auserwählter. Der Verlierer verfault auf seinem Altar.</content>
+	<content contentuid="had9f6117g4370g497ag9b65g0a13d9433a80" version="1">Ich bin Abenteurerin, keine Kammerjägerin.</content>
+	<content contentuid="haddfa9c8gba9fg465dg9ce2g124555d2a7a9" version="1">Ich bin eine Gith. Dass du noch nie eine gesehen hast?</content>
+	<content contentuid="haf747b4cg51cdg4fe9g9c32g8cdee1accbb8" version="1">Ich bin [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53], eine Meisterin der Magie und ihrer Geheimnisse.</content>
+	<content contentuid="hb0f60393gc472g4ac9g99d7g5d4a74a3f46d" version="1">Nun, Ihr wisst ja schon, dass ich eine Freundin von Jaheira bin.</content>
+	<content contentuid="hb101a2a5gba84g4ee0g88adg3dc2ef8c19c4" version="2">Ich bin eine Duergar, Idiot. Wir sind praktisch vom selben Blut.</content>
+	<content contentuid="hb18d4f78gf2bcg44dfg81e4g63e7c9fda926" version="6">Er hat mich schon zu seiner Schlächterin gemacht. Ich werde auch seine Auserwählte sein.</content>
+	<content contentuid="hb2bf432fg57e9g4127g89fcg70191ac3ed28" version="1">Es gibt eine riesige Welt dort draußen, die ich erschöpfte Bhaal-Kultistin noch nicht gesehen habe. Wollt Ihr sie mir zeigen?</content>
+	<content contentuid="hb34cd0adg6746g4bcag9cc4gf07c3ac43ba9" version="1">Überlasst ihre Folter mir - ich bin eine wahre Meisterin meines Fachs.</content>
+	<content contentuid="hb5012740gbf97g4bb7g9decg7c290bb4010f" version="2">Ich werde die Absolute nicht wie die anderen enttäuschen. Ehrlich, ich war schon immer die Klügste.</content>
+	<content contentuid="hb5776945gab38g4819g919dga8fcffeaab0f" version="7">Der Orthon hat dich an mich verkauft. ich bin jetzt deine Meisterin.</content>
+	<content contentuid="hb57aeb37g7730g40d9g81b8g4d55dd52c939" version="2">Das ist keine Fremde, sondern eine Freundin.</content>
+	<content contentuid="hb57c11f2gfd8bg4b87ga32dg906dfe3a0ae1" version="1">Ich bin keine Heldin. Bhaals Hand hat mich gezwungen, meinen Partner zu töten.</content>
+	<content contentuid="hb5fca9c7g03abg4c3agbcf3g43167565d2ff" version="1">Und diese andere wird Euer Tod sein.</content>
+	<content contentuid="hb7a0711dg1c61g420agb78bga80b6ac294de" version="3">*Diese verdammte Seele hat noch genug Verstand, um zu erkennen, dass du eine Hochstaplerin bist.*</content>
+	<content contentuid="hba0d13f8g37d9g4e25g9482ge744bcf66abf" version="1">Meine Freundin mit dem Herz aus Stahl spricht die Wahrheit. Nennt mir einen Grund, warum ich Euch nicht hier und jetzt niederstrecken sollte, Magier.</content>
+	<content contentuid="hba55bbedg1f8bg488cgb9f1gbd80c8b7f6a9" version="1">Ich bin keine Studentin. Ich will mehr über den Fluch lernen. Er ist eine Plage für dieses Land.</content>
+	<content contentuid="hbdbcfea0g1e56g4a06gb2bdgb0eeacdf8cbf" version="2">Vergesst den Konvoi. Ich bin Eure Retterin, nicht irgendeine magische Lampe.</content>
+	<content contentuid="hbf45289cg924dg4724gacedgcf9bc26f8481" version="1">Ich bin keine Söldnerin, aber ich kann Spuren lesen. Beschreibt mir die Waffe - ich kann Euch helfen. </content>
+	<content contentuid="hbff13611g494dg4447g9ee8gc3de6af7b62a" version="1">Seht Ihr vielleicht Blut an diesen Händen? Ich bin eine unschuldige Zeugin!</content>
+	<content contentuid="hc0045326g07d3g43d2g8b0cgb3a905dd7dd8" version="1">Ich vertraue Euch. Aber ich will die Steine führen - ich will zur Gedankenschinderin werden. </content>
+	<content contentuid="hc0b3f341g5406g41c7ga4dfg25ed61e5b8eb" version="1">Ich bin eine Zauberin, also bitte runter mit den Waffen, sonst könnte die Sache hässlich werden. Sehr hässlich.</content>
+	<content contentuid="hc0ddec0egfc3cg460ag9829g59c877256f90" version="1">Ich bin als Assassine ausgebildet. Haus Hekar. Vielleicht kann ich als Späherin dienen - oder im Sonderkommando.</content>
+	<content contentuid="hc15303c7g7067g4b47gbb17g52edb6fc3d28" version="2">Ihr sprecht von Gale, nehme ich an? Ich bin auch eine Magierin, wisst Ihr?</content>
+	<content contentuid="hc1f8d504gfc30g446fg8322gbaa3bd04b057" version="3">Seht Ihr vielleicht Blut an diesen Händen? Ich bin eine unschuldige Zeugin!</content>
+	<content contentuid="hc2f26cf4ge23eg42f1g8ed5g7966fcf66f88" version="2">&lt;i&gt;Ihr&lt;/i&gt; folgt &lt;i&gt;mir&lt;/i&gt;. Ihr wagt es, die SCHLÄCHTERFÜRSTIN zu hinterfragen? </content>
+	<content contentuid="hc3001691gb836g447dg822eg057efbbdf081" version="1">Ohne Euch hätte ich nicht Bhaals Auserwählte werden können.</content>
+	<content contentuid="hc30a082dgdceag4a73g9fe4g95aea849105e" version="3">Eigentlich bin ich keine echte Gith.</content>
+	<content contentuid="hc336f7deg5fc0g49bfgbf0cgbb579283f83b" version="2">Wir werden das Blut einer ganzen Welt für Euch vergießen, Auserwählte. Stellt Euch den Geruch vor ... &lt;i&gt;berauschend&lt;/i&gt;. </content>
+	<content contentuid="hc3e6e0b1g5a6dg4452gb28dge60b8bbccb21" version="1">Enver Gortasch hat mehr über deinen einstigen Ruhm enthüllt. Die Geschichte der Absoluten war eigentlich dein Plan. Als größte Assassine des Bhaal solltest du den sterblichen Ebenen mit den Legionen der Absoluten Zerstörung bringen. Und das kannst du noch tun, wenn du die Nessersteine sammelst und deinen Platz im Tempel einnimmst.</content>
+	<content contentuid="hc438cc9ag8ff2g4072ga56egf6a7aeca2958" version="1">Äh, [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53], Abenteurerin, Neugier?</content>
+	<content contentuid="hc8a9c50cgb9b8g4b7cg9062g6a06e5b8646b" version="1">Ich durchschaue Euch, Mol - vermutlich Instinkt einer Jägerin. Sagt: Was hat er Euch wirklich angeboten?</content>
+	<content contentuid="hca4496efg2ac5g4966g9a38g96eb56034a8b" version="1">Ihr könnt &lt;i&gt;unmöglich&lt;/i&gt; begreifen, was hier heute geschehen ist. Seid nur dankbar, dass Ihr in der Gunst der Auserwählten steht. </content>
+	<content contentuid="hcaffa0bagcd85g4059gab46g9762cc8be382" version="1">Eine Diebin, die Euch jedes Kupferstück stehlen könnte, wenn ich wollte.</content>
+	<content contentuid="hcb375132g8b39g49c8gb44eg33fc389f4643" version="2">Dann macht Euch auf die Konsequenzen gefasst. Hey! Ich habe die Vandalin erwischt!</content>
+	<content contentuid="hcc0a2a08g9868g4056gb2a5g6cc8a13aa42b" version="1">Lasst uns sterben, Auserwählte, wie nur Bhaalbrut es kann. </content>
+	<content contentuid="hcf1d0343g537dg4b7ega370g1f24735d4bad" version="1">Ich bin eine Sicherheitsberaterin. Eure Tresorräume lassen einiges zu wünschen übrig.</content>
+	<content contentuid="hcf3c4e04g009cg44feg9551gb119dee85afc" version="2">Eine echte Heldin ... aber ich dachte, Ihr wäret größer. </content>
+	<content contentuid="hcf4c0c6ege7b8g4809g9659g0df8c64b25a6" version="1">*Dir, der ein Dasein als Sklavin bestimmt war.* </content>
+	<content contentuid="hcf571207g1aa3g4855gbafdg82261ddfafc8" version="1">Betrachtet mich als Gesandte meines Volkes.</content>
+	<content contentuid="hcf72886eg60f8g4f5cg9ea0g4dbef15b1296" version="2">[GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]. Eine Kriegerin. Ich will Euch nichts tun. </content>
+	<content contentuid="hcf7416e0g598cg4e76g8893g9f11e17aa552" version="2">Warum nennt Ihr mich Sharitin?</content>
+	<content contentuid="hcfaca718g2e55g4c2bga155gfddbc26be54b" version="1">Wenn die Absolute eine Klerikerin der Selûne braucht - ich bin hier.</content>
+	<content contentuid="hcfb33688g234dg4d5dg9bf6g9504556cc1e1" version="3">Eine Irre auf der Flucht. Vorsicht, bevor der Wahnsinn die Kontrolle übernimmt ...</content>
+	<content contentuid="hcfdd334bgcedcg4631ga8eag3248cc5dca61" version="1">Verneigt Euch vor meinem göttlichen Körper, denn ich bin Bhaals neue Auserwählte. </content>
+	<content contentuid="hd1222555gf6d8g4a7dg8dedg8bb00a240f13" version="1">Die letzte Tür rechts. Und beeilt Euch, Bardin - Ihr seid ohnehin spät dran. </content>
+	<content contentuid="hd1d387e3g0994g4fb6g92d6g3b261677d89b" version="2">Sieh an, nicht mal die Fingernägel habt Ihr gezogen - Anfänger! Sieh an, nicht mal die Fingernägel habt Ihr gezogen - Anfängerin!</content>
+	<content contentuid="hd319fdddgfb56g465ag983ag71335fa899be" version="1">Ah. Meine Verbündete. Wir sind wieder vereint.</content>
+	<content contentuid="hd4f2dbccg5e13g4a75gb9d0ga4b56f467455" version="1">Das ist eine Wahnvorstellung. Bhaal würde Euch niemals zur Auserwählten weihen, Wurm.</content>
+	<content contentuid="hd5bd97e0g26fbg45cdg9f39g8d62d24ac21e" version="1">Keine Sorge, Metzelschwester. Noch werden meine Klingen nicht schneiden.</content>
+	<content contentuid="hd7b62f09g6904g49e8gb20cg1fd46e51d5ee" version="1">Um Bhaals Gunst zu buhlen, ist nur Mittel zum Zweck. Ich bin keine Akolythin des Mordes. </content>
+	<content contentuid="hd83dc1f3g0adcg4864gb9d3g3113ecdb6cf5" version="3">Sehe ich vielleicht wie eine Mörderin aus? Dazu bin ich zu gut erzogen.</content>
+	<content contentuid="hd9ae3307g1588g4f64g83c6g03d6375d17c0" version="1">Nur eine Besucherin. Ich tu dir nichts.</content>
+	<content contentuid="hda6377ebg0c81g470bgaa0agd0032ff01cdb" version="1">Ich bin gar kein Duergar - ich bin nur verkleidet. Ich bin gar keine Duergar - ich bin nur verkleidet.</content>
+	<content contentuid="hdb5112c7g3237g4138g8fbfgf011aef32413" version="8">Stehenbleiben, Schurkin! Im Namen der Stahlwache.</content>
+	<content contentuid="hdd172f54g1520g488cg94cdg07eea2956e57" version="1">&lt;i&gt;Vorsichtig zubeißen, ohne ihn zu wecken.&lt;/i&gt; &lt;i&gt;Vorsichtig zubeißen, ohne sie zu wecken.&lt;/i&gt;</content>
+	<content contentuid="hde467496g5e04g4c81gb9e6gf505b538c251" version="2">Bhaal hat mich zu seiner Schlächterin gemacht. Ich werde auch seine Auserwählte sein.</content>
+	<content contentuid="he04492f1g46f1g4603g853agf82a971d5dd5" version="6">Eine bessere Freundin als der Goblin mit dem Knochen. Du weißt, dass er dich töten wollte?</content>
+	<content contentuid="he0d17c4cg6d26g4589gb907ga768160ff1a0" version="2">Ah-ah, meine Teuerste - Formula Gruna bleibt im Haus! Nur zu, die Luke hinab.</content>
+	<content contentuid="he0f26dc8ga438g4c8cga899g161400895f90" version="1">Ich bin nun mal, wozu mein Verstand mich macht: eine Mörderin.</content>
+	<content contentuid="he1d0c35fg82fag4929ga4acgc682427ef9b9" version="2">Ich bin eine fremde Kriegerin von einer anderen Existenzebene.</content>
+	<content contentuid="he1d721ffga9cfg4968ga50ag9f6ad03848d4" version="3">Geht und tut, was ich nicht tun konnte. Geht zum Herz des Gemetzels und seid die letzte Überlebende.</content>
+	<content contentuid="he26a6819gc05bg428ag9d14gaad9bb9a9f57" version="2">Unsere &lt;i&gt;Freundin&lt;/i&gt; sagte, Ihr wäret tot. Erfreulich, dass das nicht stimmt. Gewiss nur ein heiteres Missverständnis.</content>
+	<content contentuid="he2c0dfe8g0ea9g4e8fgbf91g18d49f553237" version="2">Es wundert mich, dass Ihr mich als Auserwählte Eurer eigenen Enkelin vorzieht.</content>
+	<content contentuid="he34563a5g3ab1g421agaa2eg60c84ae121aa" version="2">ILYN. TOTH. *Ich wiederholte den Namen und versuchte, wie eine Zauberin zu klingen.*</content>
+	<content contentuid="he3b083a6g9e85g45a9gb986g56d24418e846" version="1">Ich bin eine Duergar. Hast du keine Augen im Kopf?</content>
+	<content contentuid="he4bf6786g9048g43c0ga308g89eea2f2380a" version="1">Ich bin eine Hüterin der Natur - und dafür beschützt sie mich.</content>
+	<content contentuid="he4fb2ca7g656dg48d7gb46fg99efaf3bf14d" version="2">Ich bin keine Patientin - ich wurde als Expertin für maladaptive nekromantische Krankheiten angeheuert.</content>
+	<content contentuid="he62fc626gb016g44ccg86f3g95027191ceb1" version="2">Ich bin keine gedungene Mörderin.</content>
+	<content contentuid="he704aea3gecf6g4be9g9efcgd291718787be" version="1">Ich hätte mein Schicksal einer anderen Klerikerin anvertrauen sollen.</content>
+	<content contentuid="he77d1f3ag490fg4ee8gb5e6g27dbc6eeb72b" version="3">Euch, die den Vampirfürsten vernichtet, aber tausende seiner Brutlinge freigelassen hat?</content>
+	<content contentuid="he78b3998gbc20g48a4g9ff4ga0e1bd326947" version="2">&lt;i&gt;Eine Abenteurerin. Ich kam aus Baldurs Tor, auch wenn ich mich nie von Umständen habe einengen lassen. Ich sehnte mich nach mehr.&lt;/i&gt;</content>
+	<content contentuid="he7bced60gaed1g4a71g8b32ga9fc702645f3" version="2">&lt;i&gt;Seltsam, dass sie nach der Richtung fragt. Es führt nur ein Weg zum Gefängnis - durch die Luke am Ende des Korridors auf der linken Seite.&lt;/i&gt;</content>
+	<content contentuid="he7e477c9g5240g4285g9230g7c06c6ef630e" version="2">Ich bin eine Duergar.</content>
+	<content contentuid="he8dc570eg3720g4eefgabfdg0a6486f300c2" version="8">Wieso denkt Ihr, ich wäre eine Sklavin?</content>
+	<content contentuid="he9f4a1e2ge09cg4044gb913gc9c49273d34c" version="2">Gortasch verrät uns, Blutschwester. Er legt unser Schlachten an die Kette, benutzt uns, um die Herde seinen Dosenmännern in die Arme zu treiben.&lt;br&gt;</content>
+	<content contentuid="hea6b3430gf95fg4693gbc04g87fdabada98a" version="2">Ruhig, mein Lieber. Ich tue dir nichts. Ruhig, meine Liebe. Ich tue dir nichts.</content>
+	<content contentuid="hea6cfbf1gaaf9g4553ga035g8cbdddc5621d" version="2">DU BIST BHAALS PROPHET DES SCHRECKENS, DIE AUSERWÄHLTE, DAZU BESTIMMT, DAS LETZTE LEBENDE WESEN ZU SEIN. WENN ALLES ANDERE VON DEINER HAND GEERNTET WURDE, WIRD DER LETZTE TOD AUF DIESEN VERKOMMENEN EBENEN DER DEINE SEIN. ÜBERNIMM DAS KOMMANDO ÜBER DAS ÄLTESTENGEHIRN. ÜBERNIMM DAS KOMMANDO ÜBER SEINE BESESSENEN ARMEEN. LASS SIE IM NUTZLOSEN FAERÛN SCHLACHTEN, DANN JEDES JÄMMERLICHE LEBEN IM KOSMOS VERNICHTEN. Gratulation, Dunkles Verlangen. Du bist eine Heldin!</content>
+	<content contentuid="heb23a7cfg3ddcg44f7gbb20g12e05d2b0566" version="1">Verzeiht mir diesen Fauxpas. Vielleicht kann sie die Lücke überbrücken und tun, wozu sie &lt;i&gt;gekommen&lt;/i&gt; ist.</content>
+	<content contentuid="hec593464gffefg4dfdga3b8g8f68d32d96d0" version="1">Bhaal frohlockt über den Aufstieg der Auserwählten. Und auch ich, und das solltet auch &lt;i&gt;Ihr&lt;/i&gt;.</content>
+	<content contentuid="hec6705a0gbf97g48b6gbd90g565b313f2c4c" version="2">Heute ist Euer Glückstag, ich bin die Übeltäterin.</content>
+	<content contentuid="hedd13ce9g17a2g4fa4g95bfg12f49260c9ff" version="4">Ich bin keine Gefangene! Ich habe die Zellen gereinigt und mich versehentlich eingeschlossen.</content>
+	<content contentuid="hedf74929gd725g4360g9dfcg3f9294d57f25" version="1">Ich war es die ganze Zeit - ich bin diejenige, die infiziert ist. </content>
+	<content contentuid="hee2d3dfdg7fc0g4b80ga80fg50bba2f5b1d9" version="1">Ich sage Euch, es war eine Doppelgängerin!</content>
+	<content contentuid="hee4ca2fagfb26g4f2fgb587g387490d53023" version="3">Eine Dienerin von Vlaakith will nichts, das ihre Königin nicht gewähren kann. *Ich sagte: "Einer Dienerin von Vlaakith mangelt es an nichts."*</content>
+	<content contentuid="hee894a90g5871g41fcgbcacg127645badf36" version="2">Ich weiß, das ist nur schwer zu verstehen, aber Ihr wurdet von einer Doppelgängerin angegriffen.</content>
+	<content contentuid="heeb9b9c3gb52bg4325g8c0cg0ffa67557e15" version="2">Ich werde nicht Bhaals Auserwählte sein. Er kann mich nicht beanspruchen.</content>
+	<content contentuid="hef932deegf73eg46d7gb5f8g4861488df1e0" version="1">Indem ich getan habe, was ich am besten kann - eine Heldin sein.</content>
+	<content contentuid="hf02330b3g3b68g40dbg80d4g493af12e7293" version="1">Stimmt, ich bin eine Gelehrte - nur nicht in Sachen Folter.</content>
+	<content contentuid="hf04a3443g6e81g41e2g98c8ga8603c6241b6" version="1">Was sagt man dazu: Anscheinend war ich nicht die Einzige, die eine Mitfahrgelegenheit auf dem Nautiloiden hatte.</content>
+	<content contentuid="hf1aaf236ge661g4fdcg9efbg94e084f35130" version="1">Ich bin nicht Raphaels Kundin. Er ist &lt;i&gt;meine&lt;/i&gt; Marionette.</content>
+	<content contentuid="hf2bcdb45g9af3g4192ga35fg1c4dc88c8709" version="1">Ich werde alle von diesem Bösen befreien - ich werde es sein, die diese Ebene von der Absoluten befreien wird.</content>
+	<content contentuid="hf3d1240cg4450g4627ga317g2605e3280032" version="1">In der Tat. Eine Sumpfelfe.</content>
+	<content contentuid="hf4157cc9g20d2g442fg9a7eg52a986257c0f" version="1">Wartet! Ich bin keine Vettelbrut - ich bin eine ebenso fromme Anhängerin wie Ihr. </content>
+	<content contentuid="hf47b0d79gd2c4g402eg8aedg010387af7277" version="2">Das ist keine Fremde, sondern eine Freundin.</content>
+	<content contentuid="hf577e47fg96c6g4b76ga11fg6ddc1d652d87" version="3">Nun wurdet Ihr geschickt, um mein Blut zu vergießen. Wie überaus dumm von meiner Metzelschwester. Ich lasse mich nicht zurückweisen.</content>
+	<content contentuid="hf58ee5edgd733g4a57gb3c5gda9e2b81f6e5" version="1">Ich bin eine Zauberin, also bitte runter mit den Waffen. Wer weiß, was meine Magie sonst anrichtet.</content>
+	<content contentuid="hf5fb0d08gd2f1g450cgb1e8g57fa1d488d15" version="3">&lt;i&gt;Sklavin. Verbindet die Nerven des Kopplers. Wir müssen fliehen. Sofort!&lt;/i&gt;</content>
+	<content contentuid="hf600e3b6gac6bg4bf1gbc1dgea01341b6f99" version="1">Ich bin eine Hüterin der Natur - und dafür beschützt sie mich.</content>
+	<content contentuid="hf631b350g3a93g45fdg85d8gec7728837a0c" version="3">Tretet vor, Aspirantin, auf dass über Euch geurteilt werde. </content>
+	<content contentuid="hf6ff1e33g4bbdg4e4dg9e4eg11e4c231575a" version="1">&lt;i&gt;Wie könnt Ihr es WAGEN. Ich bin genau die, für die ich mich ausgebe!&lt;/i&gt;</content>
+	<content contentuid="hf7e7441ag064fg4b63ga30bg6d6e35df3170" version="1">Sagt, meine Verbündete: Wusstet Ihr von diesem Plan?</content>
+	<content contentuid="hf9ccebcbg2083g49c3g8e76g0f3fde0eb966" version="2">Ähem. Ich bin immerhin eine Kundin. Ihr solltet Euch freuen, &lt;i&gt;mich&lt;/i&gt; zu sehen. </content>
+	<content contentuid="hfa0d471agccddg447ag80e0g2ac74f343c35" version="1">Oh, doch, doch, ich bin die Handwerkerin Mein Handwerk ist der Glaube. </content>
+	<content contentuid="hfb0a1ce9g47d5g461dgb842g5a361915a9a7" version="1">Was bedrückt Euch, meine Freundin mit dem locker sitzenden Dolch?</content>
+	<content contentuid="hfb3d02b3g1b42g47d1g8cafg7e118db9c187" version="2">Ich bin Klerikerin. Lasst mich Euch heilen.</content>
+	<content contentuid="hfcecd3a2g8f0cg4326gb4dag847a523dedf5" version="1">Ich bin Schlosserin! Wollt Ihr mich &lt;i&gt;wirklich&lt;/i&gt; verhaften, nur weil ich meine Arbeit tue?</content>
+	<content contentuid="hfd94ca0ag35abg4e38g9429g173cdacd25b9" version="3">&lt;i&gt;Leer vor dich hinstieren und eine Sklavin mimen.&lt;/i&gt;</content>
+	<content contentuid="hfe0bd13fg4988g414cgab6fgbe527e725fd7" version="3">Ich bin nicht abscheulich, aber ich &lt;i&gt;bin &lt;/i&gt;eine Feindin.</content>
+	<content contentuid="hfe6e4c77gf636g4b62gb0b8gfaefe7b495fc" version="1">Ich bin eine Gnomin. Dass du noch nie eine gesehen hast?</content>
+	<content contentuid="hfea67e27g1ebag4502gb9d4g4c9657d1e75e" version="1">Oh nein. Ich bin &lt;i&gt;die Schlimmste&lt;/i&gt;.</content>
+	<content contentuid="hfec0470fgc588g4a80g9f2dg98c771e9f05f" version="1">Oh, Meisterin, Meisterin, MEISTERIN! Ihr seid in Euer königliches Refugium heimgekehrt!</content>
+</contentList>
